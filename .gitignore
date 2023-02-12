@@ -1,0 +1,20 @@
+# VSCode
+.vscode/
+
+# Python
+__pycache__/
+
+# Tox
+.tox/
+
+# Mypy
+.mypy_cache/
+
+# Test folders
+testing/
+
+# Pyenv
+.python-version
+
+# Tests
+.coverage
